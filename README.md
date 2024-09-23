@@ -14,11 +14,6 @@ This project implements a Physics Data Generator extension for NVIDIA Omniverse.
 
 - NVIDIA Omniverse Kit
 - Python 3.7+
-- Required Omniverse extensions:
-  - omni.kit.uiapp
-  - omni.usd
-  - omni.timeline
-  - omni.physx
 
 ## Installation
 
