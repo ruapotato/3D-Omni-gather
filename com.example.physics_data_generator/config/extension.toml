@@ -1,0 +1,13 @@
+[package]
+# This should match your folder name
+name = "com.example.physics_data_generator"
+version = "0.0.1"
+category = "Example"
+title = "Physics Data Generator"
+description = "Generates physics simulation data"
+
+[dependencies]
+"omni.kit.uiapp" = {}
+
+[[python.module]]
+name = "physics_data_generator"
